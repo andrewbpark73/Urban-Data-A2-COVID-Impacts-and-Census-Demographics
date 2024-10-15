@@ -1,1 +1,3 @@
-# Urban-Data-A2-COVID-Impacts-and-Census-Demographics
+# INFO5430 Urban Data
+
+## Project 2: COVID Impacts among Census Demographics

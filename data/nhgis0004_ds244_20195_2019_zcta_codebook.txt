@@ -1,0 +1,141 @@
+Year:             2015-2019
+Geographic level: 5-Digit ZIP Code Tabulation Area
+Dataset:          2019 American Community Survey: 5-Year Data [2015-2019, Block Groups & Larger Areas]
+   NHGIS code:    2015_2019_ACS5a
+   NHGIS ID:      ds244
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Hispanic or Latino Origin by Race
+   Universe:    Total population
+   Source code: B03002
+   NHGIS code:  ALUK
+ 
+2. Median Household Income in the Past 12 Months (in 2019 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19013
+   NHGIS code:  ALW1
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATEA:      State Code
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLKGRPA:     Block Group Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        AITS:        American Indian Tribal Subdivision (FIPS)
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        MEMI:        Metropolitan/Micropolitan Indicator Flag
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (2019-2021, 116th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        ZCTA5A:      5-Digit ZIP Code Tabulation Area Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        UR:          Urban/Rural
+        PCI:         Principal City Indicator
+        PUMA5A:      Public Use Microdata Sample Area (PUMA) Code
+        GEOID:       Census Geographic Identifier
+        BTTRA:       Tribal Census Tract Code
+        BTBGA:       Tribal Block Group Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Hispanic or Latino Origin by Race
+    Universe:    Total population
+    Source code: B03002
+    NHGIS code:  ALUK
+        ALUKE001:    Total
+        ALUKE002:    Not Hispanic or Latino
+        ALUKE003:    Not Hispanic or Latino: White alone
+        ALUKE004:    Not Hispanic or Latino: Black or African American alone
+        ALUKE005:    Not Hispanic or Latino: American Indian and Alaska Native alone
+        ALUKE006:    Not Hispanic or Latino: Asian alone
+        ALUKE007:    Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        ALUKE008:    Not Hispanic or Latino: Some other race alone
+        ALUKE009:    Not Hispanic or Latino: Two or more races
+        ALUKE010:    Not Hispanic or Latino: Two or more races: Two races including Some other race
+        ALUKE011:    Not Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+        ALUKE012:    Hispanic or Latino
+        ALUKE013:    Hispanic or Latino: White alone
+        ALUKE014:    Hispanic or Latino: Black or African American alone
+        ALUKE015:    Hispanic or Latino: American Indian and Alaska Native alone
+        ALUKE016:    Hispanic or Latino: Asian alone
+        ALUKE017:    Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        ALUKE018:    Hispanic or Latino: Some other race alone
+        ALUKE019:    Hispanic or Latino: Two or more races
+        ALUKE020:    Hispanic or Latino: Two or more races: Two races including Some other race
+        ALUKE021:    Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 2:     Median Household Income in the Past 12 Months (in 2019 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  ALW1
+        ALW1E001:    Median household income in the past 12 months (in 2019 inflation-adjusted dollars)
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Hispanic or Latino Origin by Race
+    Universe:    Total population
+    Source code: B03002
+    NHGIS code:  ALUK
+        ALUKM001:    Total
+        ALUKM002:    Not Hispanic or Latino
+        ALUKM003:    Not Hispanic or Latino: White alone
+        ALUKM004:    Not Hispanic or Latino: Black or African American alone
+        ALUKM005:    Not Hispanic or Latino: American Indian and Alaska Native alone
+        ALUKM006:    Not Hispanic or Latino: Asian alone
+        ALUKM007:    Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        ALUKM008:    Not Hispanic or Latino: Some other race alone
+        ALUKM009:    Not Hispanic or Latino: Two or more races
+        ALUKM010:    Not Hispanic or Latino: Two or more races: Two races including Some other race
+        ALUKM011:    Not Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+        ALUKM012:    Hispanic or Latino
+        ALUKM013:    Hispanic or Latino: White alone
+        ALUKM014:    Hispanic or Latino: Black or African American alone
+        ALUKM015:    Hispanic or Latino: American Indian and Alaska Native alone
+        ALUKM016:    Hispanic or Latino: Asian alone
+        ALUKM017:    Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        ALUKM018:    Hispanic or Latino: Some other race alone
+        ALUKM019:    Hispanic or Latino: Two or more races
+        ALUKM020:    Hispanic or Latino: Two or more races: Two races including Some other race
+        ALUKM021:    Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 2:     Median Household Income in the Past 12 Months (in 2019 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  ALW1
+        ALW1M001:    Median household income in the past 12 months (in 2019 inflation-adjusted dollars)
